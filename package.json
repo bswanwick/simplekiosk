@@ -14,10 +14,8 @@
   "devDependencies": {
     "lerna": "^7.1.1"
   },
-  {
   "repository": {
     "type": "git",
     "url": "https://github.com/bswanwick/simplekiosk.git"
   }
-}
 }
