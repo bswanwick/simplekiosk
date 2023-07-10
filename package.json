@@ -1,0 +1,23 @@
+{
+  "name": "simplekiosk",
+  "version": "0.0.1",
+  "description": "For the good of public computing.",
+  "keywords": ["kiosk", "kiosk management software", "simplekiosk"],
+  "homepage": "TODO",
+  "license": "UNLICENSED",
+  "author": "Blaise Swanwick <blaiseswanwick@gmail.com> (https://www.linkedin.com/devforhire)",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^7.1.1"
+  },
+  {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bswanwick/simplekiosk.git"
+  }
+}
+}
